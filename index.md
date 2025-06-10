@@ -6,14 +6,14 @@ I'm Adriana Morales-Díaz. I was born and raised in Toa Baja, Puerto Rico. I am 
 
 ## Contact information
 
-[Correo electrónico](https://moralesdiazadri99@gmail.com) 
+[Email](https://moralesdiazadri99@gmail.com) 
 
 ## Education
 
 - 2023 - Currently
-  ***Maestría en Gestión y Administración Cultural en la UPRRP***
+   **Maestría en Gestión y Administración Cultural en la UPRRP**
 - 2017 - 2022
-  ***Bachillerato en Literatura Comparada e Historia del Arte Occidental en la UPRRP***
+   **Bachillerato en Literatura Comparada e Historia del Arte Occidental en la UPRRP**
 
 ## Publications
 
