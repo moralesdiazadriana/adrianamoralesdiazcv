@@ -1,123 +1,29 @@
----
-layout: default
----
+# Adriana Morales-Díaz
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About me
 
-[Link to another page](./another-page.html).
+I'm Adriana Morales-Díaz. I was born and raised in Toa Baja, Puerto Rico. I am currently doing a Master's degree in Cultural Management and Administration at the University of Puerto Rico - Río Piedras Campus. I am also a Graduate Research Assistant at UPR Caribe Digital. 
 
-There should be whitespace between paragraphs.
+## Contact information
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Correo electrónico](https://moralesdiazadri99@gmail.com) 
 
-# Header 1
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- 2023 - Currently
+  ***Maestría en Gestión y Administración Cultural en la UPRRP***
+- 2017 - 2022
+  ***Bachillerato en Literatura Comparada e Historia del Arte Occidental en la UPRRP***
 
-## Header 2
+## Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Google Arts & Culture Virtual Exhibition: "Thriving in Diversity: Latinas and Latinos with Disabilities"](https://latino.si.edu/exhibitions/GAC/thriving-diversity) 
 
-### Header 3
+["Puerto Rico en Poemas" Series of Interactive Maps](https://uploads.knightlab.com/storymapjs/4b2d2cb10bb158f9e45961e2897b2112/puerto-rico-en-poemas-abc-pr-2025/index.html)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> ¡Vamos pa'lante! 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## My links
 
-#### Header 4
+[LinkedIn](www.linkedin.com/in/adriana-morales-díaz-a96916233) 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
